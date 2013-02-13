@@ -37,7 +37,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'CAPTCHA_SORTABLES'				=> 'CAPTCHA מסודרת',
-	'CONFIRM_QUESTION_EXPLAIN'		=> 'אנא גרור את האפשרויות עם העכבר לרשימה הנכונה, בכדי להמנע מהרשמויות אוטומטיות.',
+	'CONFIRM_QUESTION_EXPLAIN'		=> 'אנא גרור את האפשרויות לרשימה הנכונה, בכדי להמנע מהרשמויות אוטומטיות.',
 	'CONFIRM_QUESTION_EXPLAIN_NOJS'	=> 'אנא גרור את האפשרויות מתחת לרשימה הנכונה, בכדי להמנע מהרשמויות אוטומטיות.', // With JavaScript disabled
 	'CONFIRM_QUESTION_WRONG'		=> 'סידרת לא נכון את הפריטים ברשימה הנכונה של שאלת האישור',
 
